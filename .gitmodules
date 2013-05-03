@@ -1,0 +1,3 @@
+[submodule "built.io-ios-sdk"]
+	path = built.io-ios-sdk
+	url = git@github.com:akshay1188/built.io-ios-sdk.git
